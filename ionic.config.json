@@ -1,0 +1,8 @@
+{
+  "name": "testeionic",
+  "app_id": "ba35f48f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
